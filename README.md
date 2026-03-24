@@ -6,7 +6,7 @@
 # Ex.No:26
   Develop a C program using static storage class in function with parameter and without return to display the incremental float values as indicated in the following output.
 | Input | Output                                       |
-|-------|----------------------------------------------|
+|-------|----------------------------------------------|.
 | 1     | 101.25&nbsp;&nbsp;201.50&nbsp;&nbsp;301.75&nbsp;&nbsp;402.00&nbsp;&nbsp;502.75 |
 # Date : 19/03/2026
 # Aim:
